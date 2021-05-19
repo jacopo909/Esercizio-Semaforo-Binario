@@ -1,0 +1,7 @@
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\bin\Debug\Bassini_Semaforo_2.exe.config
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\bin\Debug\Bassini_Semaforo_2.exe
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\bin\Debug\Bassini_Semaforo_2.pdb
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\obj\Debug\Bassini_Semaforo_2.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\obj\Debug\Bassini_Semaforo_2.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\obj\Debug\Bassini_Semaforo_2.exe
+C:\Users\Jacopo Montella\source\repos\Bassini_Semaforo_2\Bassini_Semaforo_2\obj\Debug\Bassini_Semaforo_2.pdb
